@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clay0M
-- 👀 I’m interested in Photography, Biking, Coffee, and more!
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Photography, Biking, Gaming, and more!
+- 🌱 I’m currently learning Cybersecurity
 - 📫 How to reach me: clayton.m.miller@gmail.com
 
 <!---
